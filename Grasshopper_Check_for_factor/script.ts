@@ -35,7 +35,7 @@ function checkForFactor2(base: number, factor: number): boolean {
 }
 
 // eslint-disable-next-line no-console
-console.log(checkForFactor2(10, 2));// tru
+console.log(checkForFactor2(10, 2));// true
 // eslint-disable-next-line no-console
 console.log(checkForFactor2(63, 7));// true
 // eslint-disable-next-line no-console
